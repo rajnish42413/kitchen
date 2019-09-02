@@ -1,1 +1,1 @@
-# kitchen
+# CodeIgniter kitchen Stock Management
